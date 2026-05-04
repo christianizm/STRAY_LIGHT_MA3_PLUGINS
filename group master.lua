@@ -164,7 +164,7 @@ local function BuildUI()
         return
     end
 
-    Printf("[GMFaders] Found " .. #masters .. " Group Master(s)")
+    --Printf("[GMFaders] Found " .. #masters .. " Group Master(s)")
 
     local totalRows  = math.ceil(#masters / COLS)
     local totalGridH = totalRows * ROW_STEP - ROW_PAD
