@@ -1,4 +1,4 @@
-These are some plugins i wanted to share with people. The 'PT Inverter' is a plugin that will invert the encoder or dmx for the pan or tilt of the current selection. 
+These are some plugins I wanted to share with people. The 'PT Inverter' is a plugin that will invert the encoder or dmx for the pan or tilt of the current selection. 
 It will also show the present state. The 'set channel default' is a plugin for changing the default value of a fixture channel in the fixtures profile. You can
 select a fixture and whatever values are active in the programmer will be brought up in a checklist that you can select to adjust the defaut values of that attribute.
 The 'close' button or right titlebar button acts as a rescan of the programmer. The 'group master' is just a visual UI of all your group masters as long as they are 
