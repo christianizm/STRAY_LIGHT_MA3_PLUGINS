@@ -8,3 +8,4 @@ out and has a lot of useful information in the plugin. The 'grid tools' is just 
 customizations I found useful. Specifically the stretch and invert functions. You can make a subselection of the current grid selection and invert certain fixtures
 and will get a popup asking if you want to update groups and layouts after the change. There are other useful features that I might try to document in the plugin 
 itself especially regarding the custom options.
+The 'Edit Selection FixtureType' is a macro that will open up directly the current fixturetype and mode for the current selection. 
