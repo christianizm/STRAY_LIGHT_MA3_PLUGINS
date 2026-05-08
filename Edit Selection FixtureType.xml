@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GMA3 DataVersion="2.3.2.0">
+    <Macro Name="Edit Selection FixtureType" Guid="ED F9 66 AA 23 CB 10 02 FF 0F A2 33 EE F9 C2 4D" Appearance="instance layout background">
+        <DependencyExport Size="1">
+            <Dependency RelAddr="ShowData.Appearances.&apos;instance layout background&apos;" RelAddrNum="14.4.658" Address="ShowData.Appearances.&apos;instance layout background&apos;" AddressNum="14.4.658">
+                <Appearance Name="instance layout background" Guid="ED F9 66 AA 7A A2 10 02 54 D0 6D 9D D4 DA 6C E5" Color="0.0000000000,0.0000000000,0.2100007534,1.0000000000" BackB="54" BackAlpha="255"/>
+            </Dependency>
+        </DependencyExport>
+        <MacroLine Guid="ED F9 66 AA 5B 95 10 02 04 89 B9 0C EF F9 C2 4D" Command="Lua &quot;local s=GetSubfixture(SelectionFirst()); CmdIndirectWait(&apos;Edit FixtureType &apos;..s.FixtureType.No..&apos; DMXMode &apos;..HandleToStr(s.Fixture.ModeDirect))&quot;"/>
+    </Macro>
+</GMA3>
